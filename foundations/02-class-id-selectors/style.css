@@ -2,10 +2,14 @@
     background-color:hsl(0,100%,75%);
     font-family:'Verdana', 'DejaVu Sans', sans-serif;
 }
-.cooler {
+.cooler, #num-id2 {
     font-size:24px;
 }
 #num-id1 {
     color:blue;
     font-size:36px;
+}
+#num-id2 {
+    background-color:hsl(120,100%,80%);
+    font-weight:bold;
 }
