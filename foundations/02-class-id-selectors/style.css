@@ -1,6 +1,6 @@
 .num-class {
     background-color:hsl(0,100%,75%);
-    font-family:'Verdana', 'DejaVu Sans', sans-serif;
+    font-family:Verdana, 'DejaVu Sans', sans-serif;
 }
 .cooler, #num-id2 {
     font-size:24px;
