@@ -12,7 +12,9 @@ img {
   font-weight: 900;
   text-align:center;
 }
-
+.main-container {
+  display:flex;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
