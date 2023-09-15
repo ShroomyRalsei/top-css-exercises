@@ -15,6 +15,11 @@ img {
 .main-container {
   display:flex;
 }
+.plant-div {
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
