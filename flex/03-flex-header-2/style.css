@@ -17,6 +17,7 @@ body {
 }
 .l-side, .r-side {
   display:flex;
+  align-items:center;
 }
 .links, .r-side {
   gap:10px;
