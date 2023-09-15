@@ -5,6 +5,9 @@ html, body {
 }
 .header {
   display:flex;
+  font-size:1.5em;
+  justify-content:space-between;
+  font-weight:bold;
 }
 body {
   font-family: Roboto, sans-serif;
