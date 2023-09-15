@@ -3,7 +3,9 @@
 html, body {
   height: 100%;
 }
-
+.header {
+  display:flex;
+}
 body {
   font-family: Roboto, sans-serif;
   margin: 0;
