@@ -16,7 +16,9 @@ body {
   align-items:center;
   padding-left:16px;
 }
-
+.middle-flex {
+  display:flex;
+}
 .footer {
   height: 72px;
   background: #eee;
