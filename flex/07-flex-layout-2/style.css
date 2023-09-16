@@ -51,4 +51,7 @@ a {
 .right-side {
   gap: 10px;
   display: flex;
+  flex-wrap:wrap;
+  box-sizing:border-box;
+  padding:30px;
 }
