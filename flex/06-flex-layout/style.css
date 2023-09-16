@@ -5,7 +5,6 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
-  padding:10px;
   display:flex;
   flex-direction:column;
   justify-content:space-between;
@@ -43,6 +42,8 @@ li {
 ul {
   display:flex;
   gap:12px;
+  margin:0;
+  padding:0;
 }
 .content {
   display:flex;
@@ -54,4 +55,7 @@ ul {
   display:flex;
   justify-content:space-between;
   background-color:grey;
+}
+.header, .footer {
+  padding:10px;
 }
