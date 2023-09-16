@@ -30,18 +30,20 @@ input {
 }
 a {
   text-decoration:none;
-  color:black;
+  color: #666;
 }
 li {
   list-style-type:none;
 }
-.header {
-  display:flex;
-  justify-content:space-between;
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
 }
 ul {
   display:flex;
-  gap:12px;
+  gap:16px;
   margin:0;
   padding:0;
 }
@@ -50,12 +52,9 @@ ul {
   flex-direction:column;
   justify-content:center;
   align-items:center;
+  flex:1;
+  gap: 16px;
 }
 .footer {
-  display:flex;
-  justify-content:space-between;
-  background-color:grey;
-}
-.header, .footer {
-  padding:10px;
+  background: #eee;
 }
