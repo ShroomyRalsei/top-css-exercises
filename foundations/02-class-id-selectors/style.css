@@ -9,4 +9,6 @@
 #id-2 {
     background-color:hsl(150, 100%, 51%);
 }
-
+.red-class.cooler, #id-2 {
+    font-size:24px;
+}
