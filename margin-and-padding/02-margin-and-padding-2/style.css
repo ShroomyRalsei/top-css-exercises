@@ -3,7 +3,7 @@ body {
   font-family: sans-serif;
 }
 .title, .card div {
-  padding: 7px 15px;
+  padding: 15px 7px;
 }
 .card {
   width: 400px;
