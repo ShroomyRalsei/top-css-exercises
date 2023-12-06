@@ -10,19 +10,18 @@ body {
 .one {
   background: pink;
   border: 3px solid blue;
-  margin: 0px;
+  margin: 0 0 20px;
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
-  /* CHANGE ME */
-  margin-bottom: 0px;
+  margin: 0 -10px 100px -10px;
 }
 
 .three {
   background: peachpuff;
   border: 3px solid brown;
   width: 200px;
-  margin-left: 0px;
+  margin-left: 340px;
 }
