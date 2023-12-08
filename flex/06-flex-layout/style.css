@@ -23,6 +23,10 @@ img {
   display: flex;
 }
 
+.header, .footer {
+  padding:20px;
+}
+
 body, .header, .footer {
  justify-content:space-between;
 }
