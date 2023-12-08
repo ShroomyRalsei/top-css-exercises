@@ -18,6 +18,10 @@ ul {
   gap:15px;
 }
 
+.sidebar, .page-content {
+  padding:30px;
+}
+
 a {
   text-decoration:none;
 }
