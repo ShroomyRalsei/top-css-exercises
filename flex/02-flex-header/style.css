@@ -18,6 +18,7 @@ ul, .header, .right-links, .left-links {
   color: tomato;
   background: white;
   padding: 4px 32px;
+  align-self:center;
 }
 
 ul {
