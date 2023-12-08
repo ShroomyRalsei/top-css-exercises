@@ -16,7 +16,7 @@ body, .header, ul, .footer {
   display: flex;
 }
 
-.header, .footer {
+body, .header, .footer {
  justify-content:space-between;
 }
 
