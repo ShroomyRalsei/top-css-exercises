@@ -57,6 +57,10 @@ button {
   border-radius: 8px;
 }
 
+.header-container {
+  display:flex;
+}
+
 button.continue {
   background: royalblue;
   border: 1px solid royalblue;
