@@ -4,7 +4,7 @@ body {
   min-height: 100vh;
 }
 
-.header, body, .page-body, .footer, .sidebar {
+.header, body, .page-body, .footer, ul {
   display:flex;
 }
 
@@ -33,7 +33,7 @@ a, .header {
   padding-left:16px;
 }
 
-.header, .footer, body, .sidebar {
+.header, .footer, body, ul {
   flex-direction:column;
 }
 
