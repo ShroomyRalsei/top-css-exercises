@@ -31,6 +31,10 @@ body, .header, .footer {
  justify-content:space-between;
 }
 
+.footer {
+  background-color:rgba(0,0,0,0.3)
+}
+
 button {
   font-family: Roboto, sans-serif;
   border: none;
