@@ -11,6 +11,10 @@ img {
   height: 100px;
 }
 
+.sub-container {
+  flex-direction:column;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
