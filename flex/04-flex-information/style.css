@@ -13,6 +13,8 @@ img {
 
 .sub-container {
   flex-direction:column;
+  align-items:center;
+  text-align:center;
 }
 
 .title {
