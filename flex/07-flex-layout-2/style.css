@@ -23,6 +23,10 @@ ul {
   padding:30px;
 }
 
+.page-content {
+  flex-wrap:wrap;
+}
+
 a {
   text-decoration:none;
 }
