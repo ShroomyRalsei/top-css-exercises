@@ -4,7 +4,7 @@ body {
   min-height: 100vh;
 }
 
-.header, body, .page-body {
+.header, body, .page-body, .footer {
   display:flex;
 }
 
@@ -33,7 +33,7 @@ a, .header {
   padding-left:16px;
 }
 
-.header, body {
+.header, .footer, body {
   flex-direction:column;
 }
 
