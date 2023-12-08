@@ -3,6 +3,10 @@
   background: papayawhip;
 }
 
+ul {
+  margin:0;
+}
+
 ul, .header, .right-links, .left-links {
   display:flex;
 }
