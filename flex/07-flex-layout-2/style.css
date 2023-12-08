@@ -4,7 +4,7 @@ body {
   min-height: 100vh;
 }
 
-.header, .page-body {
+.header, body, .page-body {
   display:flex;
 }
 
