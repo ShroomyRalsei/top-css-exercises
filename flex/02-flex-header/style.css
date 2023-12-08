@@ -1,10 +1,7 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
-}
-
-ul {
-  margin:0;
+  justify-content:space-between;
 }
 
 ul, .header, .right-links, .left-links {
