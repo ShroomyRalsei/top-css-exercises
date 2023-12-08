@@ -4,6 +4,7 @@ body {
 
 .main-container, .sub-container {
   display:flex;
+  justify-content: space-evenly;
 }
 
 img {
