@@ -4,11 +4,14 @@ body {
   min-height: 100vh;
 }
 
+.header, .page-body {
+  display:flex;
+}
+
 .header {
   height: 72px;
   background: darkmagenta;
   color: white;
-  display:flex;
   flex-direction:column;
   justify-content:center;
   font-size:2em;
