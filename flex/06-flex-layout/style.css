@@ -15,6 +15,10 @@ img {
   display: flex;
 }
 
+.header, .footer {
+ justify-content:space-between;
+}
+
 button {
   font-family: Roboto, sans-serif;
   border: none;
