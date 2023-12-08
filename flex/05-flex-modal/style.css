@@ -67,6 +67,11 @@ button.continue {
   color: white;
 }
 
+.header {
+  font-weight:bold;
+  font-size:1.2em;
+}
+
 button.cancel {
   background: white;
   border: 1px solid #ddd;
