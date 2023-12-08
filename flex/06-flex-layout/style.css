@@ -5,13 +5,14 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  flex-direction:column;
 }
 
 img {
   width: 600px;
 }
 
-.header, ul, .footer {
+body, .header, ul, .footer {
   display: flex;
 }
 
