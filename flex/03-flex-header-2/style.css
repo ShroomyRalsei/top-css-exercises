@@ -17,6 +17,7 @@ body {
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   align-items:center;
+  padding:10px;
 }
 
 ul, .header, .right-hand-side {
