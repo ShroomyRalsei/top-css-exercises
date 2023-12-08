@@ -8,6 +8,9 @@ ul, .header, .right-links, .left-links {
   display:flex;
 }
 
+.left-links, .right-links {
+  align-items:center;
+}
 .logo {
   font-size: 48px;
   font-weight: 900;
@@ -20,6 +23,7 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   margin:0;
+  padding:0;
 }
 
 a {
